@@ -73,7 +73,9 @@
         "name": "3GM",
         "addresses": [],
         "tags": [
-            "Mined by 3GM"
+            "Mined by 3GM",
+            "3 Guys Mining",
+            "These dudes? They're off the chain!"
         ],
         "link": ""
     },
@@ -184,7 +186,8 @@
         "name": "Sigmapool.com",
         "addresses": [],
         "tags": [
-            "/Sigmapool.com/"
+            "/Sigmapool.com/",
+            "/SigmaPool/"
         ],
         "link": "https://sigmapool.com"
     },
@@ -724,24 +727,296 @@
     },
     {
         "id": 69,
-        "name": "",
+        "name": "BW.com",
         "addresses": [
-            ""
+            "LU9RGHjkX3dFnUinwqto1jstYR51BKRHNr"
         ],
         "tags": [
-            "//"
+            "/BW.com/",
+            "/BW/",
+            "Mined by BW.com",
+            "Mined by bw.com"
+        ],
+        "link": "http://bw.com"
+    },
+    {
+        "id": 70,
+        "name": "MultiPool.us",
+        "addresses": [
+            "Ld7Po2mbs1mWtz5aVEVgmEzDp8Zw3ndwhm"
+        ],
+        "tags": [
+            "/Multipool.us/"
+        ],
+        "link": "https://www.multipool.us/"
+    },
+    {
+        "id": 71,
+        "name": "zpool.ca",
+        "addresses": [
+            "LWm46BdrD3ZBDUdAxfqHqNK4TLJgDeqZU5"
+        ],
+        "tags": [
+            "www.zpool.ca"
+        ],
+        "link": "http://www.zpool.ca"
+    },
+    {
+        "id": 72,
+        "name": "gly.pool",
+        "addresses": [
+            "LWm46BdrD3ZBDUdAxfqHqNK4TLJgDeqZU5"
+        ],
+        "tags": [
+            "gly.pool"
         ],
         "link": ""
     },
     {
-        "id": 70,
-        "name": "",
+        "id": 73,
+        "name": "bsod",
         "addresses": [
             ""
         ],
         "tags": [
-            "//"
+            "bsod.solo",
+            "bsod.1",
+            "bsod.solo.1"
         ],
         "link": ""
     },
+    {
+        "id": 74,
+        "name": "Project BTCPool",
+        "addresses": [
+            ""
+        ],
+        "tags": [
+            "/Project BTCPool/"
+        ],
+        "link": ""
+    },
+    {
+        "id": 75,
+        "name": "Kanpool",
+        "addresses": [
+            "MHgsgoxYNxWJDDxNJGroT6gVL96ejqBMyb"
+        ],
+        "tags": [
+            "/Kanpool.com/",
+            "/Kanpool/"
+        ],
+        "link": "http://www.kanpool.com/"
+    },
+    {
+        "id": 76,
+        "name": "XNPool",
+        "addresses": [
+            ""
+        ],
+        "tags": [
+            "/XNPool/",
+            "XNPOOL.CN"
+        ],
+        "link": "https://www.xnpool.cn/"
+    },
+    {
+        "id": 77,
+        "name": "Easy2Mine",
+        "addresses": [
+            "LLpN93cN6oNhL6PA615tiwr2CXauiPGGr1"
+        ],
+        "tags": [
+            "/Easy2Mine4/",
+            "Easy2Mine",
+            "wayi/pool/beijing/",
+            "wayi/"
+        ],
+        "link": "https://easy2mine.io/"
+    },
+    {
+        "id": 78,
+        "name": "AoD Technologies",
+        "addresses": [
+            ""
+        ],
+        "tags": [
+            "/Crypto Pools by AoD Technologies LLC - https://cryptopools.aod-tech.com/"
+        ],
+        "link": "https://cryptopools.aod-tech.com"
+    },
+    {
+        "id": 79,
+        "name": "Huobi",
+        "addresses": [
+            "LX3RrtFgwNbvcyAyRj6XyWYUwrjoQycnCj"
+        ],
+        "tags": [
+            "/Huobi/"
+        ],
+        "link": "https://www.huobi.com/"
+    },
+    {
+        "id": 80,
+        "name": "zergpool",
+        "addresses": [
+            "LaG35pHSJx6HRvLg2XcA7eYfqvCfG4PViM"
+        ],
+        "tags": [
+            "zergpool.com"
+        ],
+        "link": "https://zergpool.com"
+    },
+    {
+        "id": 81,
+        "name": "fkpool",
+        "addresses": [
+            "LLjCNFf4hXLpkjWyEXcxPTxutw6j7wahaw"
+        ],
+        "tags": [
+            "/FKPool/"
+        ],
+        "link": "https://fkpool.cn/"
+    },
+    {
+        "id": 82,
+        "name": "Knightpool",
+        "addresses": [
+            "LhjYaQaeYafYti4L3RiD2iDj1K3sySL5Ux"
+        ],
+        "tags": [
+            "/knightpool.top/"
+        ],
+        "link": "http://knightpool.top"
+    },
+    {
+        "id": 83,
+        "name": "mine.nu",
+        "addresses": [],
+        "tags": [
+            "Eurasian server: http://crypto.mine.nu:9327",
+            "Siberian server: http://siberia.mine.nu:9327",
+            "mine.nu"
+        ],
+        "link": "http://mine.nu"
+    },
+    {
+        "id": 84,
+        "name": "solopool.org",
+        "addresses": [
+            "LadbbFASpCzPmowVK9Ry8G1K5z6VsPZvD8"
+        ],
+        "tags": [
+            "solopool.org"
+        ],
+        "link": "http//solopool.org"
+    },
+    {
+        "id": 85,
+        "name": "mph",
+        "addresses": [],
+        "tags": [
+            "/mph/"
+        ],
+        "link": ""
+    },
+    {
+        "id": 86,
+        "name": "p2p-spb.xyz",
+        "addresses": [],
+        "tags": [
+            "p2p-spb.xyz"
+        ],
+        "link": "https://bitcointalk.org/index.php?topic=1972190.0"
+    },
+    {
+        "id": 87,
+        "name": "ncmininghub",
+        "addresses": [],
+        "tags": [
+            "ncmininghub"
+        ],
+        "link": ""
+    },
+    {
+        "id": 88,
+        "name": "WarpHash",
+        "addresses": [],
+        "tags": [
+            "warphash",
+            "WarpHash"
+        ],
+        "link": "http://warphash.com"
+    },
+    {
+        "id": 89,
+        "name": "Gos.cx",
+        "addresses": [
+            "MNpTEsC39ePstMmcFPACWULNjhFN326oUu"
+        ],
+        "tags": [
+            "gos.cx"
+        ],
+        "link": "https://gos.cx/"
+    },
+    {
+        "id": 90,
+        "name": "solomining.io",
+        "addresses": [],
+        "tags": [
+            "solomining.io"
+        ],
+        "link": "https://ltc.solomining.io/"
+    },
+    {
+        "id": 91,
+        "name": "happychina",
+        "addresses": [
+            "LRxpRNXTuac1byuGS4LwxJmrRi8qEdfLam"
+        ],
+        "tags": [
+            "happychina"
+        ],
+        "link": ""
+    },
+    {
+        "id": 92,
+        "name": "thepool.life",
+        "addresses": [],
+        "tags": [
+            "thepool.life"
+        ],
+        "link": ""
+    },
+    {
+        "id": 93,
+        "name": "Slartibartfast",
+        "addresses": [
+            "LR97mGE7SCiaaX7o9SmYaF6vZ4kukSaVSy"
+        ],
+        "tags": [
+            "Slartibartfast"
+        ],
+        "link": ""
+    },
+    {
+        "id": 94,
+        "name": "OKX",
+        "addresses": [
+            "M8Cpu5hzPBzP7T4f7KgeDBSAfY2q6vaXNy"
+        ],
+        "tags": [
+            "/okex/"
+        ],
+        "link": "https://www.okx.com/pool"
+    },
+    {
+        "id": 95,
+        "name": "MW",
+        "addresses": [],
+        "tags": [
+            "Mined by MW"
+        ],
+        "link": ""
+    }
 ]

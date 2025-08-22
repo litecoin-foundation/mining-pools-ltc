@@ -714,5 +714,17 @@
     "name": "LongPool",
     "tags": ["GoodLuckyBoom"],
     "link": "https://longpool.org/"
+  },
+  {
+    "id": 102,
+    "name": "molepool",
+    "tags": ["molepool.com"],
+    "link": "https://ltc.molepool.com"
+  },
+  {
+    "id": 103,
+    "name": "hash-hut",
+    "tags": ["hash-hut.net"],
+    "link": "https://hash-hut.net"
   }
 ]

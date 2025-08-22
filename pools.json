@@ -63,7 +63,7 @@
     "id": 9,
     "name": "AntPool",
     "addresses": ["LcNS6c8RddAMjewDrUAAi8BzecKoosnkN3"],
-    "tags": ["/AntPool/", "Mined By AntPool"],
+    "tags": ["/AntPool/", "Mined By AntPool", "Mined by AntPool"],
     "link": "https://www.antpool.com"
   },
   {
@@ -712,7 +712,7 @@
   {
     "id": 101,
     "name": "LongPool",
-    "tags": ["GoodLuckyBoommm"],
+    "tags": ["GoodLuckyBoom"],
     "link": "https://longpool.org/"
   }
 ]

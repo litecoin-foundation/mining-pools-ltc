@@ -726,5 +726,15 @@
     "name": "hash-hut",
     "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
+  },
+  {
+    "id": 104,
+    "name": "HashPoolPro",
+    "addresses": [
+      "ltc1qhqnatdr6ufysv9mjg8geq8d2nly5hlj57rxua6",
+      "ltc1qyel085edvv4wfyldfnym4u9h0xc923guzx9dlh"
+    ],
+    "tags": ["/hashpoolpro/", "/hashpoolpro.com/"],
+    "link": "https://hashpoolpro.com/"
   }
 ]

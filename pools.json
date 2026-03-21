@@ -726,5 +726,11 @@
     "name": "hash-hut",
     "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
-  }
+  },
+  {
+    "id": 104,
+    "name": "Kupool",
+    "tags": ["kupool"],
+    "link": "https://www.kupool.com"
+  },
 ]

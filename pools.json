@@ -754,5 +754,19 @@
     "addresses": [],
     "tags": ["Hash700"],
     "link": "-"
+  },
+  {
+    "id": 107,
+    "name": "Kryptex",
+    "addresses": [],
+    "tags": ["pool.kryptex.com"],
+    "link": "https://www.kryptex.com"
+  },
+  {
+    "id": 108,
+    "name": "K1Pool",
+    "addresses": [],
+    "tags": ["K1Pool.com"],
+    "link": "https://k1pool.com/"
   }
 ]

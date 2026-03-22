@@ -50,7 +50,7 @@
       "3 Guys Mining",
       "These dudes? They're off the chain!"
     ],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 8,
@@ -250,7 +250,7 @@
     "name": "Zeng Yuying",
     "addresses": ["LTc1m6C7S8a4eu1RwNLeizeUxtc6PBFSiX"],
     "tags": ["/Zeng Yuying/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "name": "ProTech",
     "addresses": ["LeLyMCPiwLEu2NtGbg5vms2dkFmtBD2Co2"],
     "tags": ["/ProTechLitecoinPool/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 41,
@@ -327,7 +327,7 @@
     "name": "PoolX",
     "addresses": ["LVLs4VixpEuZS335NPvRmisxWvy2AXe7Cx"],
     "tags": ["/PoolX/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 47,
@@ -341,7 +341,7 @@
     "name": "OptaMiners",
     "addresses": ["LSi47BMkU4hKUBHiGoveoKtXcRFRoUuQz6"],
     "tags": ["/OptaMiners/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 49,
@@ -411,7 +411,7 @@
     "name": "sharp_fire",
     "addresses": [],
     "tags": ["miner sharp_fire"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 59,
@@ -509,21 +509,21 @@
     "name": "gly.pool",
     "addresses": ["LWm46BdrD3ZBDUdAxfqHqNK4TLJgDeqZU5"],
     "tags": ["gly.pool"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 73,
     "name": "bsod",
     "addresses": [""],
     "tags": ["bsod.solo", "bsod.1", "bsod.solo.1"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 74,
     "name": "Project BTCPool",
     "addresses": [""],
     "tags": ["/Project BTCPool/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 75,
@@ -606,7 +606,7 @@
     "name": "mph",
     "addresses": [],
     "tags": ["/mph/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 86,
@@ -620,7 +620,7 @@
     "name": "ncmininghub",
     "addresses": [],
     "tags": ["ncmininghub"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 88,
@@ -648,21 +648,21 @@
     "name": "happychina",
     "addresses": ["LRxpRNXTuac1byuGS4LwxJmrRi8qEdfLam"],
     "tags": ["happychina"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 92,
     "name": "thepool.life",
     "addresses": [],
     "tags": ["thepool.life"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 93,
     "name": "Slartibartfast",
     "addresses": ["LR97mGE7SCiaaX7o9SmYaF6vZ4kukSaVSy"],
     "tags": ["Slartibartfast"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 94,
@@ -676,7 +676,7 @@
     "name": "MW",
     "addresses": [],
     "tags": ["Mined by MW"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 96,
@@ -690,7 +690,7 @@
     "name": "LaYPLu..6wHEZ",
     "addresses": ["LaYPLuQEanVCYM9TztR9FuT3ZbTJM6wHEZ"],
     "tags": [],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 98,

@@ -740,5 +740,19 @@
     "addresses": [],
     "tags": ["kupool"],
     "link": "https://www.kupool.com"
+  },
+  {
+    "id": 105,
+    "name": "LSoftware DMCC",
+    "addresses": [],
+    "tags": ["LSoftware DMCC"],
+    "link": "https://ls-tech.pro"
+  },
+  {
+    "id": 106,
+    "name": "Hash700",
+    "addresses": [],
+    "tags": ["Hash700"],
+    "link": "-"
   }
 ]

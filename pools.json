@@ -688,7 +688,9 @@
   {
     "id": 97,
     "name": "LaYPLu..6wHEZ",
-    "addresses": ["LaYPLuQEanVCYM9TztR9FuT3ZbTJM6wHEZ"]
+    "addresses": ["LaYPLuQEanVCYM9TztR9FuT3ZbTJM6wHEZ"],
+    "tags": [],
+    "link": ""
   },
   {
     "id": 98,
@@ -700,36 +702,42 @@
   {
     "id": 99,
     "name": "dogegogo.com",
+    "addresses": [],
     "tags": ["dogegogo.com", "dogepool.ai"],
     "link": "https://dogegogo.com/en"
   },
   {
     "id": 100,
     "name": "Hash Space",
+    "addresses": [],
     "tags": ["HashSpace"],
     "link": "https://www.hashspace.one/"
   },
   {
     "id": 101,
     "name": "LongPool",
+    "addresses": [],
     "tags": ["GoodLuckyBoom"],
     "link": "https://longpool.org/"
   },
   {
     "id": 102,
     "name": "molepool",
+    "addresses": [],
     "tags": ["molepool.com"],
     "link": "https://ltc.molepool.com"
   },
   {
     "id": 103,
     "name": "hash-hut",
+    "addresses": [],
     "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
   },
   {
     "id": 104,
     "name": "Kupool",
+    "addresses": [],
     "tags": ["kupool"],
     "link": "https://www.kupool.com"
   }

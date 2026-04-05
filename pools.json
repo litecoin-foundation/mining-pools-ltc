@@ -768,5 +768,12 @@
     "addresses": [],
     "tags": ["K1Pool.com"],
     "link": "https://k1pool.com/"
+  },
+  {
+    "id": 109,
+    "name": "HimPool",
+    "addresses": ["LWvJhoEirnd7LNvApVVDt1Z2fpb3eEDs9v", "LcnZfuE82YB5hhtiY5JPzPkh62mMPTA2Fc"],
+    "tags": ["HimPool.com", "/HimPool/"],
+    "link": "https://himpool.com"
   }
 ]

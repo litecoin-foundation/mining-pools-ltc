@@ -775,5 +775,19 @@
     "addresses": ["LWvJhoEirnd7LNvApVVDt1Z2fpb3eEDs9v", "LcnZfuE82YB5hhtiY5JPzPkh62mMPTA2Fc"],
     "tags": ["HimPool.com", "/HimPool/"],
     "link": "https://himpool.com"
+  },
+  {
+    "id": 110,
+    "name": "MKPool Solo",
+    "addresses": [],
+    "tags": ["/mkpool.com/"],
+    "link": "https://mkpool.com/"
+  },
+  {
+    "id": 111,
+    "name": "MKPool PPLNS",
+    "addresses": [],
+    "tags": ["/mkpool.com/pplns/"],
+    "link": "https://mkpool.com/"
   }
 ]

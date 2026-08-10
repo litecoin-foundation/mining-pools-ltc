@@ -775,5 +775,12 @@
     "addresses": ["LWvJhoEirnd7LNvApVVDt1Z2fpb3eEDs9v", "LcnZfuE82YB5hhtiY5JPzPkh62mMPTA2Fc"],
     "tags": ["HimPool.com", "/HimPool/"],
     "link": "https://himpool.com"
+  },
+  {
+    "id": 110,
+    "name": "BaikalMine",
+    "addresses": ["ltc1qg84a3735kq67nrawma4fu632rj7zxmkj753mn4"],
+    "tags": ["/BaikalMine/"],
+    "link": "https://baikalmine.com"
   }
 ]

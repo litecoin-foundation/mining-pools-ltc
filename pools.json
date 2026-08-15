@@ -50,7 +50,7 @@
       "3 Guys Mining",
       "These dudes? They're off the chain!"
     ],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 8,
@@ -250,7 +250,7 @@
     "name": "Zeng Yuying",
     "addresses": ["LTc1m6C7S8a4eu1RwNLeizeUxtc6PBFSiX"],
     "tags": ["/Zeng Yuying/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "name": "ProTech",
     "addresses": ["LeLyMCPiwLEu2NtGbg5vms2dkFmtBD2Co2"],
     "tags": ["/ProTechLitecoinPool/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 41,
@@ -327,7 +327,7 @@
     "name": "PoolX",
     "addresses": ["LVLs4VixpEuZS335NPvRmisxWvy2AXe7Cx"],
     "tags": ["/PoolX/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 47,
@@ -341,7 +341,7 @@
     "name": "OptaMiners",
     "addresses": ["LSi47BMkU4hKUBHiGoveoKtXcRFRoUuQz6"],
     "tags": ["/OptaMiners/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 49,
@@ -411,7 +411,7 @@
     "name": "sharp_fire",
     "addresses": [],
     "tags": ["miner sharp_fire"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 59,
@@ -509,21 +509,21 @@
     "name": "gly.pool",
     "addresses": ["LWm46BdrD3ZBDUdAxfqHqNK4TLJgDeqZU5"],
     "tags": ["gly.pool"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 73,
     "name": "bsod",
     "addresses": [""],
     "tags": ["bsod.solo", "bsod.1", "bsod.solo.1"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 74,
     "name": "Project BTCPool",
     "addresses": [""],
     "tags": ["/Project BTCPool/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 75,
@@ -606,7 +606,7 @@
     "name": "mph",
     "addresses": [],
     "tags": ["/mph/"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 86,
@@ -620,7 +620,7 @@
     "name": "ncmininghub",
     "addresses": [],
     "tags": ["ncmininghub"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 88,
@@ -648,21 +648,21 @@
     "name": "happychina",
     "addresses": ["LRxpRNXTuac1byuGS4LwxJmrRi8qEdfLam"],
     "tags": ["happychina"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 92,
     "name": "thepool.life",
     "addresses": [],
     "tags": ["thepool.life"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 93,
     "name": "Slartibartfast",
     "addresses": ["LR97mGE7SCiaaX7o9SmYaF6vZ4kukSaVSy"],
     "tags": ["Slartibartfast"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 94,
@@ -676,7 +676,7 @@
     "name": "MW",
     "addresses": [],
     "tags": ["Mined by MW"],
-    "link": ""
+    "link": "-"
   },
   {
     "id": 96,
@@ -688,7 +688,9 @@
   {
     "id": 97,
     "name": "LaYPLu..6wHEZ",
-    "addresses": ["LaYPLuQEanVCYM9TztR9FuT3ZbTJM6wHEZ"]
+    "addresses": ["LaYPLuQEanVCYM9TztR9FuT3ZbTJM6wHEZ"],
+    "tags": [],
+    "link": "-"
   },
   {
     "id": 98,
@@ -700,35 +702,89 @@
   {
     "id": 99,
     "name": "dogegogo.com",
+    "addresses": [],
     "tags": ["dogegogo.com", "dogepool.ai"],
     "link": "https://dogegogo.com/en"
   },
   {
     "id": 100,
     "name": "Hash Space",
+    "addresses": [],
     "tags": ["HashSpace"],
     "link": "https://www.hashspace.one/"
   },
   {
     "id": 101,
     "name": "LongPool",
+    "addresses": [],
     "tags": ["GoodLuckyBoom"],
     "link": "https://longpool.org/"
   },
   {
     "id": 102,
     "name": "molepool",
+    "addresses": [],
     "tags": ["molepool.com"],
     "link": "https://ltc.molepool.com"
   },
   {
     "id": 103,
     "name": "hash-hut",
+    "addresses": [],
     "tags": ["hash-hut.net"],
     "link": "https://hash-hut.net"
   },
   {
     "id": 104,
+    "name": "Kupool",
+    "addresses": [],
+    "tags": ["kupool"],
+    "link": "https://www.kupool.com"
+  },
+  {
+    "id": 105,
+    "name": "LSoftware DMCC",
+    "addresses": [],
+    "tags": ["LSoftware DMCC"],
+    "link": "https://ls-tech.pro"
+  },
+  {
+    "id": 106,
+    "name": "Hash700",
+    "addresses": [],
+    "tags": ["Hash700"],
+    "link": "-"
+  },
+  {
+    "id": 107,
+    "name": "Kryptex",
+    "addresses": [],
+    "tags": ["pool.kryptex.com"],
+    "link": "https://www.kryptex.com"
+  },
+  {
+    "id": 108,
+    "name": "K1Pool",
+    "addresses": [],
+    "tags": ["K1Pool.com"],
+    "link": "https://k1pool.com/"
+  },
+  {
+    "id": 109,
+    "name": "HimPool",
+    "addresses": ["LWvJhoEirnd7LNvApVVDt1Z2fpb3eEDs9v", "LcnZfuE82YB5hhtiY5JPzPkh62mMPTA2Fc"],
+    "tags": ["HimPool.com", "/HimPool/"],
+    "link": "https://himpool.com"
+  },
+  {
+    "id": 110,
+    "name": "MKPool",
+    "addresses": [],
+    "tags": ["/mkpool.com/"],
+    "link": "https://mkpool.com/"
+  },
+  {
+    "id": 111,
     "name": "HashPoolPro",
     "addresses": [
       "ltc1qhqnatdr6ufysv9mjg8geq8d2nly5hlj57rxua6",

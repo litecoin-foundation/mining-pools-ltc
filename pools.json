@@ -782,5 +782,12 @@
     "addresses": [],
     "tags": ["/mkpool.com/"],
     "link": "https://mkpool.com/"
+  },
+  {
+    "id": 111,
+    "name": "MySoloPool",
+    "addresses": ["LeFL8RQWz9bHEjX431VJmmhQMsCBNF9ds9"],
+    "tags": ["Mysolopool.com"],
+    "link": "https://doge.mysolopool.com"
   }
 ]

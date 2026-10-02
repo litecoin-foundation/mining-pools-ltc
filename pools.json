@@ -783,4 +783,18 @@
     "tags": ["/mkpool.com/"],
     "link": "https://mkpool.com/"
   }
+  {
+    "id": 110,
+    "name": "MKPool",
+    "addresses": [],
+    "tags": ["/mkpool.com/"],
+    "link": "https://mkpool.com/"
+  },
+  {
+    "id": 111,
+    "name": "LitecoinHunter",
+    "addresses": ["ltc1qfgq8ugtvmk0v9w2n0mg05env6zwdn02rjwlt5p"],
+    "tags": ["/LitecoinHunter/"],
+    "link": "https://litecoinhunter.com"
+  }
 ]

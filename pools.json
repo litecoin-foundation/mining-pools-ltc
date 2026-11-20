@@ -782,5 +782,12 @@
     "addresses": [],
     "tags": ["/mkpool.com/"],
     "link": "https://mkpool.com/"
+  },
+  {
+    "id": 111,
+    "name": "HashPoolPro",
+    "addresses": [],
+    "tags": ["/hashpoolpro/"],
+    "link": "https://hashpoolpro.com"
   }
 ]
